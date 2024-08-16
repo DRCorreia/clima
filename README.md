@@ -10,3 +10,6 @@ Este é um aplicativo simples e intuitivo que permite ao usuário consultar as c
 
 - **[Flutter](https://flutter.dev/)**: Framework utilizado para o desenvolvimento do aplicativo.
 - **[Bloc](https://bloclibrary.dev/)**: Padrão de arquitetura utilizado para o gerenciamento de estado.
+
+## Obs
+Esta é a v0 do código, os componentes serão blocados 😊
